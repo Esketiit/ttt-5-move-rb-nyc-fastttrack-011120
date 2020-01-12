@@ -11,6 +11,7 @@ def input_to_index (str)
   return str.to_i - 1
 end
 
-def move (str)
+def move (board, index, letter = "X")
 
+  return board
 end
